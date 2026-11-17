@@ -24,7 +24,8 @@
       "defense",
       "profile",
       "pipeline",
-      "levels"
+      "levels",
+      "dialogue"
     ],
     "engine": "Unity / C#",
     "gitEvidence": ".",
