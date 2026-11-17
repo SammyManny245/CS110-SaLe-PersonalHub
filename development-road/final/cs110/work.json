@@ -4,9 +4,27 @@
   "name": "Samuel Leal",
   "work": {
     "project": "A story worth playing",
+    "projectDescription": "A small hero in an abstract world searching for a way back home.",
     "path": "arcade",
     "selected": [
-      "save"
+      "save",
+      "branch",
+      "settings",
+      "access",
+      "external",
+      "modular",
+      "tests",
+      "tshirt",
+      "project-mark",
+      "quick-card",
+      "release",
+      "trailer",
+      "secure",
+      "sales",
+      "defense",
+      "profile",
+      "pipeline",
+      "levels"
     ],
     "engine": "Unity / C#",
     "gitEvidence": ".",
